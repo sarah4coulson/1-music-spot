@@ -15,7 +15,7 @@ Add a paragraph describing your project here
 
 As a music consumer.
 
-I want to search for a specific genre of music and see the top artists acording to multiple libraries.
+I want to search for a specific genre of music and see the top artists according to multiple libraries.
 
 So that I can see who is the most popular according to hits played in that specific genre.
 

@@ -35,5 +35,5 @@ Apple Music, Youtube, Soundcloud. CSS to be determined.
 
 ## Rough breakdown of tasks
 
-[GITHUB PROJECT BOARD]() <- Feel free to just add a link to the github project board here
+[GITHUB PROJECT BOARD]() 
  

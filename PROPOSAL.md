@@ -15,11 +15,11 @@ Add a paragraph describing your project here
 
 As a music consumer.
 
-I want to search for a specific genre of music and see the top artists acording to multiple libraries.
+I want to search for a specific genre of music and see the top artists according to multiple libraries.
 
 So that I can see who is the most popular according to hits played in that specific genre.
 
-Given how I start with no knoweledge of the top artist across the different libraries.
+Given how I start with no knowledge of the top artist across the different libraries.
 
 When I search for a genre I want the top five most played artists on all the libraries to be displayed.
 
@@ -35,5 +35,5 @@ Apple Music, Youtube, Soundcloud. CSS to be determined.
 
 ## Rough breakdown of tasks
 
-[GITHUB PROJECT BOARD]() <- Feel free to just add a link to the github project board here
+[GITHUB PROJECT BOARD]() 
  

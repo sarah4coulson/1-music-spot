@@ -13,7 +13,17 @@ Add a paragraph describing your project here
 
 ## User Story
 
-As an [user], I want to [...], so that [...]
+As a music consumer.
+
+I want to search for a specific genre of music and see the top artists acording to multiple libraries.
+
+So that I can see who is the most popular according to hits played in that specific genre.
+
+Given how I start with no knoweledge of the top artist across the different libraries.
+
+When I search for a genre I want the top five most played artists on all the libraries to be displayed.
+
+Then I will be able to see who is the best across all the libraries and pick who I want to try and listen to next.
 
 ## Wireframe or Sketch of the design
 
@@ -21,8 +31,9 @@ As an [user], I want to [...], so that [...]
 
 ## APIS to be used
 
-This should include CSS Framework, 3rd Party APIs, and Server-Side APIS if known - Update as more information becomes available
+Apple Music, Youtube, Soundcloud. CSS to be determined.
 
 ## Rough breakdown of tasks
 
 [GITHUB PROJECT BOARD]() <- Feel free to just add a link to the github project board here
+ 

@@ -19,7 +19,7 @@ I want to search for a specific genre of music and see the top artists acording 
 
 So that I can see who is the most popular according to hits played in that specific genre.
 
-Given how I start with no knoweledge of the top artist across the different libraries.
+Given how I start with no knowledge of the top artist across the different libraries.
 
 When I search for a genre I want the top five most played artists on all the libraries to be displayed.
 

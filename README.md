@@ -7,7 +7,7 @@
 
 Depository Link: https://github.com/sarah4coulson/1-music-spot
 
-Deployed Website Link: 
+Deployed Website Link: https://sarah4coulson.github.io/1-music-spot/
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop.

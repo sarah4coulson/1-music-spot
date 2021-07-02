@@ -1,3 +1,14 @@
+var RapHipHop;
+var indieFolk;
+var jazz;
+var reggae;
+var electronic; 
+var country; 
+var classical; 
+var rock;
+var rnb;
+var alternative; 
+
 // API Call to Napster
 
 function genreName(Name) {

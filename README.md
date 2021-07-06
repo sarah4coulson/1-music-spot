@@ -2,6 +2,7 @@
 
 ## Description
 
+The purpose of this project was to use newly acquired skills and knowledge to build web application from scratch. Through the collaborative efforts of Group 2, we have created a web application that uses data from multiple server-side API requests to allow users to search different music genres and have artists returned for that specific genre. 
 
 ## Links
 

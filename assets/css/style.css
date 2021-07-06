@@ -34,6 +34,8 @@ h2 {
     justify-content: space-around;
     color: yellow;
     font-size: 20px;
+    align-items: center;
+    justify-content: center;
 }
 
 #itunes {
@@ -48,8 +50,6 @@ h2 {
 }
 
 #window {
-    align-items: center;
-    justify-content: center;
     background-color: white;
     border-radius: 40px;
     border-color: black;

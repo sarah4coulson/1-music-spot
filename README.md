@@ -18,7 +18,17 @@ Once deployed, the application appears as the image attached below on a traditio
 
 ## Resources
 
+https://www.last.fm/
 
+https://bulma.io/
+
+https://developer.napster.com/
+
+https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
+
+https://coding-boot-camp.github.io/full-stack/
+
+https://coding-boot-camp.github.io/full-stack/apis/api-resources
 
 ## Credits
 

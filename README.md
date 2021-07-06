@@ -2,6 +2,7 @@
 
 ## Description
 
+The purpose of this project was to use newly acquired skills and knowledge to build web application from scratch. Through the collaborative efforts of Group 2, we have created a web application that uses data from multiple server-side API requests to allow users to search different music genres and have artists returned for that specific genre. 
 
 ## Links
 
@@ -17,7 +18,17 @@ Once deployed, the application appears as the image attached below on a traditio
 
 ## Resources
 
+https://www.last.fm/
 
+https://bulma.io/
+
+https://developer.napster.com/
+
+https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
+
+https://coding-boot-camp.github.io/full-stack/
+
+https://coding-boot-camp.github.io/full-stack/apis/api-resources
 
 ## Credits
 

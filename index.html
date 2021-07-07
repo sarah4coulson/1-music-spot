@@ -10,6 +10,7 @@
         <!-- <link rel="stylesheet" href="styles/debug.css"> -->
 	</head>
 
+
 <body>
     <header>
     <h1 class = "title">Music Spot</h1>
@@ -62,6 +63,54 @@
 		<script type="text/javascript" src="lastfm.api.js"></script> 
 		<script type="text/javascript" src="lastfm.api.cache.js"></script> 
 		<script type="text/javascript" src="json2.js"></script> 
+=======
+	<header>
+		<nav>
+			<header class="Genre" id="genre">Genre</header>
+			<form method="post" id="drop-down">
+				<select name="Genres">
+					<option value="Hip-hop">RapHipHop</option>
+					<option value="RNB">RNB</option>
+					<option value="Rock">Rock</option>
+					<option value="Alternative">Alternative</option>
+					<option value="Dance">ElectronicDance</option>
+					<option value="Country">Country</option>
+					<option value="Blues">Blues</option>
+					<option value="Classical">Classical</option>
+					<option value="Indie">IndieFolk</option>
+					<option value="Jazz">Jazz</option>
+					<option value="Reggae">Reggae</option>
+				</select>
+			</form>
+		</nav>
+	</header>
+	<body>
+		<section class="section">
+			<div class="container">
+				<h1 class="title"> Music Spot </h1>
+				<p class="subtitle">
+					Search top artist in any genre!
+				</p>	
+			</div>
+		</section>
+		<main class="cards">
+			<h2>
+				<ul type="none">
+					<li id="LastFM">
+						LastFM
+						<div class="card" id="window">
+						</div>
+					</li>
+					<li id="Napster">
+						Napster
+						<div class="card" id="window">
+						</div>
+					</li>
+				</ul>
+			</h2>
+		</main>
+		
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 		<script src="./assets/js/lastfm.js"></script>
 		<script src="./assets/js/script.js"></script>
 </body>

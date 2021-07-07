@@ -3,63 +3,66 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>1-Music-Spot</title>
+		<title> Music Spot</title>
 		<link rel="stylesheet" href="./assets/css/style.css" 
         href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
 		<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
         <!-- <link rel="stylesheet" href="styles/debug.css"> -->
 	</head>
-	<header>
-		<nav>
-			<header class="Genre" id="genre">Genre</header>
-			<form method="post" id="drop-down">
-				<select name="Genres">
-					<option value="Rap & Hiphop">RapHipHop</option>
+
+<body>
+    <header>
+    <h1 class = "title">Music Spot</h1>
+    <p class = "subtitle"> Search top artists in any genre!</p>
+    </header>
+    <header>
+    <nav>
+        <header class = "Genre" id = "genre">Genre</header>
+        <form method = "post" id = "drop-down"></form>
+        <select name = "Genres">
+        <option value="Rap & Hiphop">Rap / Hip-Hop</option>
 					<option value="R&B">RNB</option>
 					<option value="Rock">Rock</option>
 					<option value="Alternative">Alternative</option>
-					<option value="Electronic & Dance">ElectronicDance</option>
+					<option value="Electronic & Dance">Electronic / Dance</option>
 					<option value="Country">Country</option>
 					<option value="Blues">Blues</option>
 					<option value="Classical">Classical</option>
-					<option value="Indie & Folk">IndieFolk</option>
+					<option value="Indie & Folk">Indie / Folk</option>
 					<option value="Jazz">Jazz</option>
 					<option value="Reggae">Reggae</option>
-				</select>
-			</form>
-		</nav>
-	</header>
-	<body>
-		<section class="section">
-			<div class="container">
-				<h1 class="title"> Music Spot </h1>
-				<p class="subtitle">
-					Search top artist in any genre!
-				</p>	
-			</div>
-		</section>
-		<main class="cards">
-			<h2>
-				<ul type="none">
-					<li id="LastFM">
-						LastFM
-						<div class="card" id="window">
-						</div>
-					</li>
-					<li id="Napster">
-						Napster
-						<div class="card" id="window">
-						</div>
-					</li>
-				</ul>
-			</h2>
-		</main>
-		
-		<script type="text/javascript" src="lastfm.api.md5.js"></script> 
+        </select>
+    </nav>
+    </header>
+
+    <section>
+    <section class = "section">
+        <div class = "container">
+        <main class = "cards">
+            <h2>
+            <ul type="none">
+                <li id="LastFM">
+                LastFM
+                <div class="card" id="window">
+                </div>
+                </li>
+                <li id="Napster">
+                Napster
+                <div class="card" id="window">
+                </div>
+                </li>
+            </ul>
+            </h2>
+        </div>
+    </section>
+    </section>
+</main>
+
+    <script type="text/javascript" src="lastfm.api.md5.js"></script> 
 		<script type="text/javascript" src="lastfm.api.js"></script> 
 		<script type="text/javascript" src="lastfm.api.cache.js"></script> 
 		<script type="text/javascript" src="json2.js"></script> 
 		<script src="./assets/js/lastfm.js"></script>
 		<script src="./assets/js/script.js"></script>
-	</body>
+</body>
 </html>

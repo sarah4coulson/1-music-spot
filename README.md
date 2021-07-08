@@ -14,8 +14,8 @@ Deployed Website Link: https://sarah4coulson.github.io/1-music-spot/
 Once deployed, the application appears as the image attached below on a traditional desktop.
 
 <img
-src = "./assets/images/music-spot.png"
-alt = "A screenshot of the deployed website is shown" />
+src = "./assets/images/music-spot.PNG"
+alt = "A screenshot of the deployed website" />
 
 ## Resources
 

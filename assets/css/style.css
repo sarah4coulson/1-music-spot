@@ -15,27 +15,6 @@ h1 {
     color: yellow;
 }
 
-#drop-down {
-    margin-left: 30px;
-    border: black;
-    border-width: 20px;
-}
-
-#genre {
-    padding-top: 50px;
-    margin-left: 30px;
-    font-size: 30px;
-    color: yellow;
-    padding-bottom: .5%;
-}
-
-h2 {
-    text-align: center;
-    justify-content: space-around;
-    color: yellow;
-    font-size: 20px;
-}
-
 #LastFM {
     justify-content: space-around;
 }
